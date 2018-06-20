@@ -1,2 +1,2 @@
-# elhechizero.github.io
-Sitio web personal
+# web
+Repositorio de código con ejemplo de página web sencilla pero eficaz.
